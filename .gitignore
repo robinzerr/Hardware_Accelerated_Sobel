@@ -5,8 +5,6 @@
 *.sim/
 *.runs/
 *.gen/
-*.srcs/
-*.xpr
 *.jou
 *.log
 *.str
@@ -17,5 +15,4 @@
 work-obj*.cf
 
 # Big sim text files (regenerate with img_to_txt.py)
-sim/input_pixels.txt
-sim/output_pixels.txt
+
