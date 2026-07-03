@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/zerrr/Downloads/sobel_vhdl_project/sobel/rtl/line_buffer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'line_buffer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/zerrr/Downloads/sobel_vhdl_project/sobel/rtl/sobel_core.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sobel_core'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/zerrr/Downloads/sobel_vhdl_project/sobel/rtl/window_former.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'window_former'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/zerrr/Downloads/sobel_vhdl_project/sobel/rtl/sobel_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sobel_top'

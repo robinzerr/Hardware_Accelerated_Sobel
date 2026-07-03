@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../sobel/rtl/line_buffer.vhd" \
+"../../../../sobel/rtl/sobel_core.vhd" \
+"../../../../sobel/rtl/window_former.vhd" \
+"../../../../sobel/rtl/sobel_top.vhd" \
+
+# Do not sort compile order
+nosort
