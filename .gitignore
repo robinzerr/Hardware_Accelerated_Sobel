@@ -1,18 +1,1 @@
-# Vivado project junk
-*.cache/
-*.hw/
-*.ip_user_files/
-*.sim/
-*.runs/
-*.gen/
-*.jou
-*.log
-*.str
-.Xil/
-
-# GHDL build artifacts
-*.cf
-work-obj*.cf
-
-# Big sim text files (regenerate with img_to_txt.py)
 
